@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgani0325&count_bg=%23CDB1EF&title_bg=%234F59E5&icon=&icon_color=%23E7E7E7&title=ALOHA&edge_flat=true)](https://hits.seeyoufarm.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gani0325&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gani0325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
