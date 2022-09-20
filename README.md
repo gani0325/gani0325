@@ -1,22 +1,20 @@
-### 우리집으로 가즈ㅏ 👋
-
-<!--
-**gani0325/gani0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgani0325&count_bg=%23CDB1EF&title_bg=%234F59E5&icon=&icon_color=%23E7E7E7&title=ALOHA&edge_flat=true)](https://hits.seeyoufarm.com)
+<div align="center">
+    <h1>우리집으로 가즈ㅏ 👋</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gani0325&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gani0325&layout=compact&theme=dracula)](https://github.com/metleeha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gani0325&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center">
+    ✨Stack✨
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237F51AA&title_bg=%234D65CD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gani0325)
+
+<img src="https://img.shields.io/badge/-python-success">
+<img src="https://img.shields.io/badge/-IoT-blueviolet">
+<img src="https://img.shields.io/badge/-OpenCV-red">
+<img src="https://img.shields.io/badge/-MachineLearning-green">
+
+
+</div>
