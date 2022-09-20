@@ -13,15 +13,16 @@
 </div>
 
 <div align="center">
-    <b>✨Stack✨</b>
+    <b><h3>✨Stack✨</h3></b>  </br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgani0325&count_bg=%239473E7&title_bg=%233644E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gani0325)
-
-
-<img src="https://img.shields.io/badge/-python-success">
+<img src="https://img.shields.io/badge/-python-success"> 
 <img src="https://img.shields.io/badge/-IoT-blueviolet">
 <img src="https://img.shields.io/badge/-OpenCV-red">
 <img src="https://img.shields.io/badge/-MachineLearning-green">
-<img src="https://img.shields.io/badge/-Raspberrypi-ff69b4">
+<img src="https://img.shields.io/badge/-Raspberrypi-ff69b4"> </br>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgani0325&count_bg=%239473E7&title_bg=%233644E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/gani0325)
+
 
 </div>
