@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/-IoT-blueviolet">
 <img src="https://img.shields.io/badge/-OpenCV-red">
 <img src="https://img.shields.io/badge/-MachineLearning-green">
+<img src="https://img.shields.io/badge/-BackEnd-pink">
 <img src="https://img.shields.io/badge/-Raspberrypi-ff69b4"> </br>
 
 
