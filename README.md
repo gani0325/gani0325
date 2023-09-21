@@ -16,8 +16,6 @@ Typescript & Nest js 폭넓게 공부!! 🔎  </br>
     </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gani0325&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gani0325&layout=compact&theme=dracula)](https://github.com/metleeha)
-
 
 </div>
 
