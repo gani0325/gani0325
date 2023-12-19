@@ -6,6 +6,7 @@
 💛 <b>sqld 와 정보처리기사 자격증<b>을 소지 하였습니다 😘 </br>
 💚 웹 통신을 위해 nodejs, express 의 백엔드 🔙 기초 지식을 보유 중입니다. </br>
 
+</div>
  <h2>🛠️ 2024 Goal 🛠️</h2>
  
 | Month | check | 목표 |
@@ -24,10 +25,10 @@
 | 12월 | ☑️ |  |
 
 <h2>🐸 About me 🐸</h2>
+<div align="center">
 <a href="https://alpaca-gt.tistory.com"><img src="https://img.shields.io/badge/tistory-6E9F18?style=flat-square&logo=tistory&logoColor=white&link=https://alpaca-gt.tistory.com"/></a>
 <a href="https://github.com/gani0325"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/gani0325"/></a>
 <a href="https://www.notion.so/40b67f33d22b42c9852cbe99cac32a92?pvs=4"><img src="https://img.shields.io/badge/notion-4285F4?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/40b67f33d22b42c9852cbe99cac32a92?pvs=4"/></a>
-
 </div>
 
 <h2>✨Stack✨</h2>
