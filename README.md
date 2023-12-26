@@ -7,7 +7,7 @@
 💚 웹 통신을 위해 nodejs, express 의 백엔드 🔙 기초 지식을 보유 중입니다. </br>
 
 </div>
- <h2>🛠️ 2024 Goal 🛠️</h2>
+ <h2>🛠️ Goal 🛠️</h2>
  
 | Goal | Next year | 10 year |
 | --- | --- | --- |
