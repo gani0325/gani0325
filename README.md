@@ -24,6 +24,16 @@
 | 11월 | ☑️ |  |
 | 12월 | ☑️ |  |
 
+| Goal | Next year | 10 year |
+| --- | --- | --- |
+| Personal Development | IT 취업 준비 및 합격 | AI..? |
+| Career | C 기반 임베디드 교육생 | 멋있는 상사 |
+| Business | 안정적 매출 만들기 | 나의 사업장 조성하기 |
+| Economic | 청년저축 가입 | 자택 사기 |
+| Toy | 애플 조이스틱 게임기 사기 | 증강현실 (VR) 에서 친구들 만나기 |
+| Adventure | 전국 투어 및 저렴한 동남아 여행 | 스페인가서 가우디 건축물 보고 영감 얻기 |
+| Contrubution | 취준생들에게 멘토 되어주기 | 해외 의료 봉사 가기 |
+
 <h2>🐸 About me 🐸</h2>
 <div align="center">
 <a href="https://alpaca-gt.tistory.com"><img src="https://img.shields.io/badge/tistory-6E9F18?style=flat-square&logo=tistory&logoColor=white&link=https://alpaca-gt.tistory.com"/></a>
