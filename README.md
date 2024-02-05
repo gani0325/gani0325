@@ -5,13 +5,14 @@
 💙 <b>C++와 C언어 기반 임베디드 및 펌웨어</b> 역량 (with TCP/IP 등 초연결..✨) 을 양성 중입니다. </br>
 💛 <b>sqld 와 정보처리기사 자격증</b>을 소지 하였습니다 😘 </br>
 💚 과거,, 웹 통신을 위해 nodejs, express 의 백엔드 🔙 기초 지식을 보유 중입니다. </br>
+💖 #IoT #Embedded #네트워크 #리눅스 #보안 </br>
 
 </div>
  <h2>🛠️ Goal 🛠️</h2>
  
 | Goal | Next year | 10 year |
 | --- | --- | --- |
-| Personal Development | IT 취업 준비 및 합격 <br> 개인 역량 강화 (리눅스, 네트워크) 💪 | AI.. <br> 만물의 초연결을 어우르는 전문가 되기 |
+| Personal Development | IT 취업 준비 및 합격 <br> 개인 역량 강화 (리눅스, 임베디드, 네트워크) 💪 | AI.. <br> 만물의 초연결을 어우르는 전문가 되기 |
 | Career | C 기반 임베디드 교육생<br> IoT 관련 프로젝트 수행 <br> SQLD & 정보처리기사 자격증 소지 | 멋쟁이 상사🦹‍♀️ <br> 워너비 개발자<br>커리어우먼 |
 | Business | 안정적 매출 만들기💵<br> 청년 지원금 받기 | 나의 사업장 조성하기<br>더 넓은 분야 진출 |
 | Economic | 청년 저축 가입<br>보험 가입 | 자택 사기<br>노후 준비 시작 |
