@@ -5,7 +5,7 @@
 💙 <b>C++와 C언어 기반 임베디드 및 펌웨어</b> 역량 (with TCP/IP 등 초연결..✨) 을 양성 중입니다. </br>
 💛 <b>sqld 와 정보처리기사 자격증</b>을 소지 하였습니다 😘 </br>
 💚 과거,, 웹 통신을 위해 nodejs, express 의 백엔드 🔙 기초 지식을 보유 중입니다. </br>
-💖 #IoT #Embedded #네트워크 #리눅스 #보안 </br>
+💖 <b>#IoT #Embedded #네트워크 #리눅스 #보안</b> </br>
 
 </div>
  <h2>🛠️ Goal 🛠️</h2>
