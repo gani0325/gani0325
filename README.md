@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=🚀+멋진+개발자를+꿈꾸는+이가은입니다;Biomedical+%2B+CS+Dual+Major+Engineer;Automotive+DevOps+%40+HL+Mando+(2yr);C%2FC%2B%2B+%7C+Linux+%7C+Jenkins+%7C+A-SPICE;IoT+%7C+Embedded+%7C+Network+%7C+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?gani0325font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=🚀+멋진+개발자를+꿈꾸는+이가은입니다;Biomedical+%2B+CS+Dual+Major+Engineer;Automotive+DevOps+%40+HL+Mando+(2yr);C%2FC%2B%2B+%7C+Linux+%7C+Jenkins+%7C+A-SPICE;IoT+%7C+Embedded+%7C+Network+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -171,20 +171,20 @@ public:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gani0325&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gani0325&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gani0325&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gani0325&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -286,7 +286,7 @@ Next  ─── 🎯 자동차 임베디드 SW 엔지니어 (ECU SW · AUTOSAR �
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gani0325)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@your_id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_id)
 
@@ -302,6 +302,6 @@ Next  ─── 🎯 자동차 임베디드 SW 엔지니어 (ECU SW · AUTOSAR �
 <br/>
 *"An engineer who never waits — always fills the gaps herself."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gani0325.gani0325)
 
 </div>
