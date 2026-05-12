@@ -8,16 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=🚀+멋진+개발자를+꿈꾸는+이가은입니다;Biomedical+%2B+CS+Dual+Major+Engineer;Automotive+DevOps+%40+HL+Mando+(2yr);C%2FC%2B%2B+%7C+Linux+%7C+Jenkins+%7C+A-SPICE;IoT+%7C+Embedded+%7C+Network+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 
-<br/>
-
-[![KR](https://img.shields.io/badge/🇰🇷_한국어-4CAF50?style=for-the-badge)](#-한국어-소개)
-[![EN](https://img.shields.io/badge/🇺🇸_English-2196F3?style=for-the-badge)](#-english-introduction)
-
 </div>
 
 ---
 
-## 🇰🇷 한국어 소개
+## 👩‍💻 About Me
 
 ```c
 /* "인생의 디폴트값은 GO" */
@@ -76,45 +71,19 @@ int main() {
 - LSTM+CNN · Dash 실시간 대시보드
 
 ### 🌱 현재 (2025~)
-- ⚙️ **성남 시스템반도체 아카데미** 수료 중 (2025.10 예정)
+- ⚙️ **성남 시스템반도체 아카데미** 수료 중 (2026.10 예정)
 - FPGA · Verilog HDL · ARM · 반도체 8대 공정
 
 </td>
 </tr>
 </table>
 
----
-
-## 🇺🇸 English Introduction
-
-```cpp
-// "Default value of life is GO" — My motto
-#include <iostream>
-using namespace std;
-
-class Engineer {
-public:
-    string name     = "Gaeun Lee";
-    string degree   = "Biomedical Eng. + Computer Science (Dual Major, Gachon Univ. Cum Laude)";
-    string career   = "HL Mando — Brake SW DevOps Manager (2024.02~2026.02, 2 yrs)";
-    string current  = "Seongnam Semiconductor Academy (FPGA, Verilog, ARM, Semiconductor Process)";
-    string mission  = "Embedded expert connecting everything through IoT & Automotive SW";
-
-    void introduce() {
-        cout << "🔧 2yr Automotive DevOps @ HL Mando" << endl;
-        cout << "   → Jenkins CI/CD · Docker · Polyspace · VectorCAST · A-SPICE · PTC Windchill" << endl;
-        cout << "🌐 IoT Full-stack · C-based Embedded · FreeRTOS · Linux · Deep Learning" << endl;
-        cout << "📜 5 Certs: Engineer IP · SQLD · Linux Master · CSTS FL" << endl;
-    }
-};
-```
-
-- 🎓 Dual major in **Biomedical Engineering** & **Computer Science** — Gachon Univ. (Cum Laude)
-- 🚗 **2-year DevOps** @ **HL Mando** Brake SW team: Jenkins CI/CD, Docker, Polyspace, VectorCAST, A-SPICE, PTC Windchill, Black Duck OSS, Global collaboration (India & China)
-- 🤖 **Internship @ Infobank**: Time-series anomaly detection ML monitoring (LSTM+CNN, Dash)
-- 🌐 **IoT Full-stack**: MQTT, AWS EC2, Node.js/Express, MySQL, FreeRTOS, C/C++ sensor control
-- 🔬 **Research (iNES Lab)**: DL-based sound localization + smart turntable system (Raspberry Pi)
-- 📊 **BOAZ 빅데이터**: 3D space recognition — YOLOv5 + Frustum PointNets (Autonomous driving)
+- 🎓 **가천대학교** 의용생체공학 + 컴퓨터공학 복수전공 (Cum Laude)
+- 🚗 **HL만도** Brake SW DevOps 매니저 2년 — Jenkins · Docker · Polyspace · VectorCAST · A-SPICE · PTC Windchill · 인도/중국 글로벌 협업
+- 🤖 **인포뱅크 인턴** — 시계열 데이터 이상감지 ML 모니터링 (LSTM+CNN · Dash)
+- 🌐 **IoT 풀스택** — MQTT · AWS EC2 · Node.js/Express · FreeRTOS · C/C++ 센서 제어
+- 🔬 **iNES 연구실** — DL 기반 음원위치추정 + 스마트 턴테이블 (라즈베리파이)
+- 📊 **BOAZ 빅데이터** — YOLOv5 + Frustum PointNets 자율주행 3D 공간 인식
 
 ---
 
@@ -171,20 +140,20 @@ public:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gani0325&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gani0325&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gani0325&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gani0325&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -224,11 +193,11 @@ public:
   │            인도·중국 글로벌 팀 프로세스 전파
   │        📚 코멘토 디바이스 드라이버 과정 · 위포트 전기차·2차전지 스터디
   │
-2025  ─── 🔬 성남 시스템반도체 아카데미 수료 중 (예정 2025.10)
+2026  ─── 🔬 성남 시스템반도체 아카데미 수료 중 (예정 2026.10)
   │            FPGA · Verilog HDL · ARM · 반도체 8대 공정 · DFT
   ▼
 Next  ─── 🎯 자동차 임베디드 SW 엔지니어 (ECU SW · AUTOSAR · CAN/LIN)
-```
+        🔬 반도체 SW 엔지니어 (Device Driver · FPGA · ARM · DFT)```
 
 ---
 
@@ -286,7 +255,7 @@ Next  ─── 🎯 자동차 임베디드 SW 엔지니어 (ECU SW · AUTOSAR �
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gani0325)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@your_id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_id)
 
@@ -302,6 +271,6 @@ Next  ─── 🎯 자동차 임베디드 SW 엔지니어 (ECU SW · AUTOSAR �
 <br/>
 *"An engineer who never waits — always fills the gaps herself."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gani0325.gani0325)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
 
 </div>
