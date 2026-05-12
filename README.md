@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=🚀+멋진+개발자를+꿈꾸는+이가은입니다;Biomedical+%2B+CS+Dual+Major+Engineer;Automotive+DevOps+%40+HL+Mando+(2yr);C%2FC%2B%2B+%7C+Linux+%7C+Jenkins+%7C+A-SPICE;IoT+%7C+Embedded+%7C+Network+%7C+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Gaeun+Lee+%7C+Embedded+Engineer;Biomedical+%2B+CS+Dual+Major;Automotive+DevOps+%40+HL+Mando+(2yr);C%2FC%2B%2B+%7C+Linux+%7C+Jenkins+%7C+A-SPICE;IoT+%7C+Embedded+%7C+Network+%7C+DL" alt="Typing SVG" />
 </a>
 
 </div>
@@ -70,7 +70,7 @@ int main() {
 - 시계열 데이터 기반 이상감지 ML 모니터링
 - LSTM+CNN · Dash 실시간 대시보드
 
-### 🌱 현재 (2025~)
+### 🌱 현재 (2026~)
 - ⚙️ **성남 시스템반도체 아카데미** 수료 중 (2026.10 예정)
 - FPGA · Verilog HDL · ARM · 반도체 8대 공정
 
@@ -197,7 +197,8 @@ int main() {
   │            FPGA · Verilog HDL · ARM · 반도체 8대 공정 · DFT
   ▼
 Next  ─── 🎯 자동차 임베디드 SW 엔지니어 (ECU SW · AUTOSAR · CAN/LIN)
-        🔬 반도체 SW 엔지니어 (Device Driver · FPGA · ARM · DFT)```
+        🔬 반도체 SW 엔지니어 (Device Driver · FPGA · ARM · DFT)
+```
 
 ---
 
